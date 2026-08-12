@@ -1,0 +1,27 @@
+City,State,Region,Zone
+Ahmedabad,Gujarat,West,Metro
+Aizawl,Mizoram,Northeast,Non-Metro
+Amaravati,Andhra Pradesh,South,Non-Metro
+Amritsar,Punjab,North,Non-Metro
+Bengaluru,Karnataka,South,Metro
+Bhopal,Madhya Pradesh,Central,Non-Metro
+Brajrajnagar,Odisha,East,Non-Metro
+Chandigarh,Chandigarh,North,Non-Metro
+Chennai,Tamil Nadu,South,Metro
+Coimbatore,Tamil Nadu,South,Non-Metro
+Delhi,Delhi,North,Metro
+Ernakulam,Kerala,South,Non-Metro
+Gurugram,Haryana,North,Metro
+Guwahati,Assam,Northeast,Non-Metro
+Hyderabad,Telangana,South,Metro
+Jaipur,Rajasthan,North,Metro
+Jorapokhar,Jharkhand,East,Non-Metro
+Kochi,Kerala,South,Non-Metro
+Kolkata,West Bengal,East,Metro
+Lucknow,Uttar Pradesh,North,Metro
+Mumbai,Maharashtra,West,Metro
+Patna,Bihar,East,Metro
+Shillong,Meghalaya,Northeast,Non-Metro
+Talcher,Odisha,East,Non-Metro
+Thiruvananthapuram,Kerala,South,Non-Metro
+Visakhapatnam,Andhra Pradesh,South,Non-Metro
